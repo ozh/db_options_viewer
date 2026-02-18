@@ -1,28 +1,18 @@
-# [Plugin Name] [![Listed in Awesome YOURLS!](https://img.shields.io/badge/Awesome-YOURLS-C5A3BE)](https://github.com/YOURLS/awesome-yourls/)
+# DB Options Viewer [![Listed in Awesome YOURLS!](https://img.shields.io/badge/Awesome-YOURLS-C5A3BE)](https://github.com/YOURLS/awesome-yourls/)
 
-<!-- Once you have committed code, get your plugin listed in Awesome YOURLS ! See https://github.com/YOURLS/awesome-yourls -->
+This is a simple plugin for YOURLS that adds an admin page where you can view all options.  
+Handy for when you don't have access to a tool like phpMyAdmin.
 
-:bulb: Plugin short description: what it does
+<img width="1069" height="492" alt="image" src="https://github.com/user-attachments/assets/5e31a0e5-fd99-4d68-8754-8f870d853984" />
 
-Requires [YOURLS](https://yourls.org) `<here: min-version if applicable>` and above.
-
-## Usage
-
-:bulb: This is a great place for showing a few usage examples!
-
-:camera: If applicable, a screenshot of the admin interface or anything relevant is super helpful
 
 ## Installation
 
-:bulb: This is a great place for showing how to install the package. The common way is as below:
-
-1. In `/user/plugins`, create a new folder named `<here: your plugin folder name>`.
+1. In `/user/plugins`, create a new folder named, for example, `db_options_viewer`.
 2. Drop these files in that directory.
 3. Go to the Plugins administration page (eg. `http://sho.rt/admin/plugins.php`) and activate the plugin.
 4. Have fun!
 
 ## License
 
-:bulb: The license might be updated with your terms.
-
-This package is licensed under the [MIT License](LICENSE).
+Do whatever the hell you want with this. It's licensed under the [MIT License](LICENSE).
